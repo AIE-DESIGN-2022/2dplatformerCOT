@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8513258085543587442}
   - component: {fileID: 6850114669873627500}
   - component: {fileID: 7787968257487898010}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Gem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7218361414706210751}
-  m_LocalRotation: {x: -0, y: -0, z: -0.38268277, w: 0.92387986}
+  m_LocalRotation: {x: 0, y: 0, z: -0.38268343, w: 0.92387956}
   m_LocalPosition: {x: 6.486138, y: 4.227873, z: -0.5377147}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 8404704209484572651}
   - component: {fileID: 4471276132223074079}
   - component: {fileID: 4112376648928854448}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
