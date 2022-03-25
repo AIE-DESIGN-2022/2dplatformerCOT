@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &738218976860793655
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 186690, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Name
+      value: ClassicCharacter Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 186690, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 414622, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_BlockRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.size
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[3].m_Name
+      value: FallUpStraight
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[4].m_Name
+      value: Run
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[5].m_Name
+      value: Sprint
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[6].m_Name
+      value: Swim
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[7].m_Name
+      value: SwimIdle
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[8].m_Name
+      value: JumpSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[9].m_Name
+      value: WallSlide
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[10].m_Name
+      value: FallSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[11].m_Name
+      value: FallUpSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[12].m_Name
+      value: ClimbIdle
+      objectReference: {fileID: 0}
+    - target: {fileID: 11457034, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_Animations.Array.data[13].m_Name
+      value: Climb
+      objectReference: {fileID: 0}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[1].m_IsFoldingOut
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[3].m_IsFoldingOut
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[4].m_IsFoldingOut
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[1].m_AbilityModulePrefab
+      value: 
+      objectReference: {fileID: 11431680, guid: 6bd98b0b7298ce74aa1af40ca825c215, type: 3}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[2].m_AbilityModulePrefab
+      value: 
+      objectReference: {fileID: 11432060, guid: ed933e4448b161049bd7a955417172f2, type: 3}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[3].m_AbilityModulePrefab
+      value: 
+      objectReference: {fileID: 11473300, guid: eb7dea1fafd118f47ae401ce63b16ac5, type: 3}
+    - target: {fileID: 11459114, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
+      propertyPath: m_AbilitySlots.Array.data[4].m_AbilityModulePrefab
+      value: 
+      objectReference: {fileID: 11473300, guid: eb7dea1fafd118f47ae401ce63b16ac5, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 006d181c7f39aa7469a46c0b4f98d4d7, type: 3}
